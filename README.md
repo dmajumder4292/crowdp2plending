@@ -48,7 +48,7 @@ Borrower scrutinises the proposals and **Accepts** appropriate ones to achieve t
 
 Setup
 ========
-1. Install [testrpc]() and [Truffle Framework]().
+1. Install [Truffle Framework]().
 2. Run ```git clone https://github.com/dmajumder4292/crowdp2plending```
 3. Run ```npm install``` inside the directory.
 5. Run ```truffle deploy --network ropsten``` to build and deploy contract.
